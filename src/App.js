@@ -271,6 +271,7 @@ matchScore 0-100. rankLabel: "Excellent Match"|"Strong Match"|"Good Match"|"Part
       <div style={{ position: "fixed", inset: 0, zIndex: 0, pointerEvents: "none", overflow: "hidden" }}>
         <video
   autoPlay
+  muted
   loop
   playsInline
   style={{
