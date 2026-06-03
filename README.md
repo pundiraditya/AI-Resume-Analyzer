@@ -4,7 +4,7 @@ An AI-powered Resume Analyzer that helps job seekers optimize their resumes by a
 
 🌐 Live Demo
 
-🔗 Try the Application: [](https://ai-resume-analyzer-pearl-sigma.vercel.app/)]
+🔗 Try the Application: [https://ai-resume-analyzer-rcrjcoeez-aditya-pundirs-projects-3fa68bea.vercel.app/]
 
 📖 Overview
 
