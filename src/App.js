@@ -272,7 +272,6 @@ matchScore 0-100. rankLabel: "Excellent Match"|"Strong Match"|"Good Match"|"Part
         <video
   autoPlay
   loop
-  controls
   playsInline
   style={{
     position: "fixed",
